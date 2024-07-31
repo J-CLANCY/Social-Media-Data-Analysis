@@ -1,0 +1,11 @@
+# DASH/PLOTLY
+# ======================================================================================================================
+# Config for the Dash web-app
+token: "pk.eyJ1Ijoiai1jbGFuY3kiLCJhIjoiY2t1NWNpdnQ5MW42dTJvbzF2dmh2c2trdyJ9.gmcQ9e5uDzxrtIO-R5uUbg"
+
+external_stylesheets: [
+    {
+        "href": "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap",
+        "rel": "stylesheet",
+    },
+]
