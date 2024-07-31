@@ -20,5 +20,5 @@ Following this the data is presented as follows:
 ├── ""src"" => Contains the source code for this project.
 │    ├── ""assets"" => Contains the CSS files for the web app. 
 │    ├── ""data_pres.py"" => The Python script that uses Plotly Dash to present the data analysis results.  
-│    ├── ""hex_to_TB.py"" => The Python sript that imports the raw chat message data and provides a data analysis.
+│    ├── ""data_proc.py"" => The Python sript that imports the raw chat message data and provides a data analysis.
 ```
